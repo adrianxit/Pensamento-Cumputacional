@@ -16,7 +16,7 @@
     <div class="box"></div>
     <script src="script.js"></script>
     <header>
-        <h1>Bem-vindo à Página do(a) </h1>
+        <h1>Bem-vindo à Página do Adrian Samuel Gomes da Silva</h1>
     </header>
 
     <nav>
@@ -31,24 +31,24 @@
         <h2>O que você encontra aqui</h2>
         <table border="3">
             <tr>
-                <th>Serviço</th>
-                <th>Descrição</th>
-                <th>Preço</th>
+                <th>Interesses</th>
+                <th>Favoritos</th>
+                <th>Descrições</th>
             </tr>
             <tr>
-                <td>Serviço 1</td>
-                <td>Descrição do Serviço 1</td>
-                <td>R$ 100</td>
+                <td>Música</td>
+                <td>Taylor Swift</td>
+                <td>Anti-hero</td>
             </tr>
             <tr>
-                <td>Serviço 2</td>
-                <td>Descrição do Serviço 2</td>
-                <td>R$ 200</td>
+                <td>esporte</td>
+                <td>volei</td>
+                <td>Thaísa Dahes</td>
             </tr>
             <tr>
-                <td>Serviço 3</td>
-                <td>Descrição do Serviço 3</td>
-                <td>R$ 300</td>
+                <td>Filme</td>
+                <td>Garota Exemplar</td>
+                <td>Rosamund Pick</td>
             </tr>
 
         </table>
