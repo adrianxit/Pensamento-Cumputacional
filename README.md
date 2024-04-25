@@ -1,2 +1,2 @@
-# Pensamento-Cumputacional
-Atividades do 1°A
+# site-turma-criativa
+Atividades do 2°A
